@@ -2,7 +2,7 @@
 
 **`Software Developer | Data Enthusiast | Uncertified Cyber Security Expert`**
 
-I’m a passionate software developer and tech enthusiast with expertise in web development, data analysis, binary exploitation, Active Directory exploitation, and creating innovative solutions. My mission is to build secure and meaningful technology that solves real-world problems and empowers communities.
+I’m a passionate **software engineer** and **tech enthusiast** with expertise in **web development**, **data analysis**, **binary exploitation**, **Active Directory exploitation**, and creating **innovative** solutions. My mission is to build **secure** and **meaningful** technology that solves **real-world problems** and **empowers communities**.
 
 ---
 
