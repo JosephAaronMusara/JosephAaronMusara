@@ -1,47 +1,83 @@
-# 👋Joseph Aaron Musara, Uncle Joe!  
+# 👋 Joseph Aaron Musara (Uncle Joe)
 
-**`Software Developer | Data Enthusiast | Uncertified Cyber Security Expert`**
+**Software Engineer | Data & AI Systems Builder | Security Enthusiast**
 
-I’m a passionate **software engineer** and **tech enthusiast** with expertise in **web development**, **data analysis**, **binary exploitation**, **Active Directory exploitation**, and creating **innovative** solutions. My mission is to build **secure** and **meaningful** technology that solves **real-world problems** and **empowers communities**.
-
----
-
-## 🌟 **About Me**
-- 🔭 Currently working on **Community Health Reporting and Analytics**.
-- 🌍 Exploring opportunities to combine **tech and agriculture** for sustainable development in **Rwanda**.
-- 🌱 Mastering Cyber Security.
+I design and build **scalable, intelligent systems** that solve real-world problems—particularly in **health, agriculture, and emerging markets**. My work sits at the intersection of **software engineering, data systems, and applied AI**, with a growing focus on **security and resilient architectures**.
 
 ---
 
-## 🚀 **Tech Stack**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)     ![Databases](https://img.shields.io/badge/-Databases-4479A1?style=flat&logo=mysql&logoColor=white)
+## 🌍 About Me
+
+- 🔭 Currently building a **Community Health Reporting & Analytics Platform**  
+  → AI-powered outbreak detection, geospatial insights, and predictive analytics  
+
+- 🌱 Deepening expertise in:
+  - Applied **Machine Learning**
+  - **Cybersecurity** (Binary Exploitation & Active Directory)
+  - **Distributed & Data Systems**
+
+- 🌍 Long-term focus:  
+  Leveraging **technology + finance + agriculture** to drive **sustainable development in Africa**
 
 ---
 
-## 📈 **GitHub Stats**
+## 🧠 Core Competencies
+
+- **Backend Engineering**: APIs, system design, scalable architectures  
+- **Data & AI**: NLP, analytics pipelines, predictive modeling  
+- **Security**: Binary exploitation, AD exploitation, system hardening  
+- **Problem Domain Focus**: Health systems, agriculture, and real-world data environments  
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Runtime**
+- Python, JavaScript  
+
+**Systems & Tools**
+- Linux, REST APIs, Distributed Systems  
+
+**Data**
+- SQL/Relational Databases, Data Analysis Pipelines  
+
+**Emerging Focus**
+- Machine Learning Systems, AI Integration, Security Engineering  
+
+---
+
+## 📈 GitHub Stats
+
 ![Joseph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JosephAaronMusara&show_icons=true&theme=radical)
 
 ---
 
-## 🔗 **Connect With Me**
-- 💼 [LinkedIn](https://linkedin.com/in/joseph-aaron-musara)
-- 📨 [Email](mailto:josephaaronmusara@gmail.com)
+## 🚀 Highlighted Project
+
+### 🔬 Community Health Reporting & Analytics Platform  
+🔗 https://github.com/JosephAaronMusara/CommunityHealthReportingandAnalyticsPlatform  
+
+**Overview**  
+A platform enabling community members and health workers to report incidents, with **AI-driven pattern detection** to identify potential disease outbreaks early.
+
+**Key Features**
+- 📍 Geospatial heatmaps (Leaflet)
+- 🧠 NLP-based incident classification
+- 📊 Trend analysis & alerting
+- 🔮 Predictive analytics for outbreak forecasting
+
+**Tech Stack**
+- Django, Python, NLP, Leaflet, Data Analytics
 
 ---
 
-## 🌟 **Highlighted Projects**
-### [Community Health Reporting and Analytics Platform](https://github.com/JosephAaronMusara/community-health-platform)
-- **Description**: Enables local health workers to report incidents and provides AI-powered pattern detection for outbreak identification.  
-- **Tech**: Django, Python, Leaflet, NLP 
+## 🤝 Connect With Me
+
+- 💼 LinkedIn: https://linkedin.com/in/joseph-aaron-musara  
+- 📨 Email: josephaaronmusara@gmail.com  
 
 ---
 
-## 🌱 **Fun Facts**
-- 🌍 I’m passionate about **community-driven tech solutions**.
-- 🎉 I value creativity and teamwork.  
-- ❤️ Tariroyashe Sithole is my **joy giver** and **best friend**.  
+## ⚡ Personal Note
 
----
-
-Feel free to explore my repositories and reach out if you'd like to collaborate! 🚀
+I’m driven by building **impactful systems**, not just applications—technology that operates in **real environments**, under **real constraints**, and delivers **measurable value**.
