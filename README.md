@@ -57,5 +57,5 @@ Also exploring: cybersecurity (binary exploitation, Active Directory), distribut
 ## Reach me
 
 - Email — **josephaaronmusara@gmail.com**
-- LinkedIn — [aaron-jo](https://linkedin.com/in/aaron-jo)
+- LinkedIn — [aaron-jo](https://linkedin.com/in/aaron-joseph-aaron)
 - Portfolio — [josephmusara.dev](https://josephmusara.dev)
