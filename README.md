@@ -1,83 +1,61 @@
-# 👋 Joseph Aaron Musara (Uncle Joe)
+# Joseph Aaron Musara (Uncle Joe)
 
-**Software Engineer | Data & AI Systems Builder | Security Enthusiast**
+**Software Engineer · Zimbabwe**
 
-I design and build **scalable, intelligent systems** that solve real-world problems—particularly in **health, agriculture, and emerging markets**. My work sits at the intersection of **software engineering, data systems, and applied AI**, with a growing focus on **security and resilient architectures**.
+I build full-stack, AI-powered software systems with a focus on practical business value, real-time workflows, and production deployment. Currently at **Colossal Hub** — recruitment platform, real-time interview agent, billing infrastructure.
 
----
-
-## 🌍 About Me
-
-- 🔭 Currently building a **Community Health Reporting & Analytics Platform**  
-  → AI-powered outbreak detection, geospatial insights, and predictive analytics  
-
-- 🌱 Deepening expertise in:
-  - Applied **Machine Learning**
-  - **Cybersecurity** (Binary Exploitation & Active Directory)
-  - **Distributed & Data Systems**
-
-- 🌍 Long-term focus:  
-  Leveraging **technology + finance + agriculture** to drive **sustainable development in Africa**
+Portfolio → **[josephmusara.dev](https://josephmusara.dev)**
 
 ---
 
-## 🧠 Core Competencies
+## What I'm working on
 
-- **Backend Engineering**: APIs, system design, scalable architectures  
-- **Data & AI**: NLP, analytics pipelines, predictive modeling  
-- **Security**: Binary exploitation, AD exploitation, system hardening  
-- **Problem Domain Focus**: Health systems, agriculture, and real-world data environments  
+- **AI-powered recruitment SaaS** — CV parsing, candidate scoring with rationale, bias-verification notes, full hiring pipeline.  
+  *Next.js · TypeScript · Frappe · Python · OpenAI · Redis · Docker · Nginx*
 
----
+- **Real-time AI interview agent** — Voice agent that joins a LiveKit room, runs structured interviews, and writes recordings for human review.  
+  *LiveKit · Python · OpenAI · Deepgram · Cartesia · Silero VAD*
 
-## 🛠️ Tech Stack
+- **Community Health Reporting & Analytics Platform** — Anonymous incident reporting, verification workflow, hotspot heatmaps, NLP pattern detection.  
+  [Repo](https://github.com/JosephAaronMusara/CommunityHealthReportingandAnalyticsPlatform) · *Django · Python · Leaflet · NLP*
 
-**Languages & Runtime**
-- Python, JavaScript  
+- **AgriSphere** — On-device disease detection for smallholder potato farmers in Zimbabwe; offline-first mobile app.  
+  *React Native · TensorFlow Lite · Firebase · Expo*
 
-**Systems & Tools**
-- Linux, REST APIs, Distributed Systems  
-
-**Data**
-- SQL/Relational Databases, Data Analysis Pipelines  
-
-**Emerging Focus**
-- Machine Learning Systems, AI Integration, Security Engineering  
+- **Paynow billing foundation** — Credit-based usage billing for Zimbabwean SaaS.  
+  *Frappe · Paynow · REST APIs*
 
 ---
 
-## 📈 GitHub Stats
+## Stack
 
-![Joseph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JosephAaronMusara&show_icons=true&theme=radical)
+**Frontend** — Next.js, React, TypeScript, Tailwind, React Native  
+**Backend** — Python, Frappe, Django, REST APIs, Redis, MariaDB  
+**AI / Real-time** — OpenAI, Anthropic, LiveKit, Deepgram, Cartesia, TensorFlow Lite, NLP  
+**Infrastructure** — Docker, Nginx, Supervisor, Linux VPS, Firebase
 
----
-
-## 🚀 Highlighted Project
-
-### 🔬 Community Health Reporting & Analytics Platform  
-🔗 https://github.com/JosephAaronMusara/CommunityHealthReportingandAnalyticsPlatform  
-
-**Overview**  
-A platform enabling community members and health workers to report incidents, with **AI-driven pattern detection** to identify potential disease outbreaks early.
-
-**Key Features**
-- 📍 Geospatial heatmaps (Leaflet)
-- 🧠 NLP-based incident classification
-- 📊 Trend analysis & alerting
-- 🔮 Predictive analytics for outbreak forecasting
-
-**Tech Stack**
-- Django, Python, NLP, Leaflet, Data Analytics
+Also exploring: cybersecurity (binary exploitation, Active Directory), distributed systems, and applied ML for emerging-market problems.
 
 ---
 
-## 🤝 Connect With Me
+## Right now
 
-- 💼 LinkedIn: https://linkedin.com/in/joseph-aaron-musara  
-- 📨 Email: josephaaronmusara@gmail.com  
+- Software Engineer at **Colossal Hub**
+- Finishing BTech Honours in Software Engineering at the **Harare Institute of Technology**
+- Building practical software for recruitment, health, and agriculture in Zimbabwean and African contexts
 
 ---
 
-## ⚡ Personal Note
+## Stats
 
-I’m driven by building **impactful systems**, not just applications—technology that operates in **real environments**, under **real constraints**, and delivers **measurable value**.
+![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=JosephAaronMusara&show_icons=true&hide_border=true&bg_color=FAFAF7&title_color=1F4D3F&text_color=161613&icon_color=1F4D3F)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephAaronMusara&layout=compact&hide_border=true&bg_color=FAFAF7&title_color=1F4D3F&text_color=161613)
+
+---
+
+## Reach me
+
+- Email — **josephaaronmusara@gmail.com**
+- LinkedIn — [aaron-jo](https://linkedin.com/in/aaron-jo)
+- Portfolio — [josephmusara.dev](https://josephmusara.dev)
