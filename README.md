@@ -4,7 +4,7 @@
 
 I build full-stack, AI-powered software systems with a focus on practical business value, real-time workflows, and production deployment. Currently at **Colossal Hub** — recruitment platform, real-time interview agent, billing infrastructure.
 
-Portfolio → **[josephmusara.dev](https://josephmusara.dev)**
+Portfolio → **[josephmusara](https://joseph-aaron-musara.vercel.app)**
 
 ---
 
