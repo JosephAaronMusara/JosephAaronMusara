@@ -1,48 +1,52 @@
 # Joseph Aaron Musara (Uncle Joe)
 
-**Software Engineer · Zimbabwe**
+**Software Engineer · Harare, Zimbabwe**
 
-I build full-stack, AI-powered software systems with a focus on practical business value, real-time workflows, and production deployment. Currently at **Colossal Hub** — recruitment platform, real-time interview agent, billing infrastructure.
+I build software that helps businesses run better: hiring, payroll, accounting, reporting and the everyday workflows in between. I care about things that work in production, not just in demos. I work at **Colossal Hub**, and I also run a small consultancy, **[Gibraltar Reasearch Africa](https://www.gibraltarresearch.africa/)**.
 
-Portfolio → **[josephmusara](https://joseph-aaron-musara.vercel.app)**
+Portfolio: **[josephmusara](https://joseph-aaron-musara.vercel.app)**
 
 ---
 
 ## What I'm working on
 
-- **AI-powered recruitment SaaS** — CV parsing, candidate scoring with rationale, bias-verification notes, full hiring pipeline.  
-  *Next.js · TypeScript · Frappe · Python · OpenAI · Redis · Docker · Nginx*
+- **Colossal Hub platform** ([app.colossalhub.com](https://app.colossalhub.com)): One system for running a business, made up of People (HR), Payroll, Intelligence, Recruit and Accounting, with WhatsApp access. Accounting is now live.  
+  *Next.js · TypeScript · Frappe · Python · Redis · Docker · Nginx*
 
-- **Real-time AI interview agent** — Voice agent that joins a LiveKit room, runs structured interviews, and writes recordings for human review.  
+- **Recruit (inside Colossal Hub)**: Reads CVs, scores candidates and explains why, adds notes to help check for bias, and tracks the full hiring pipeline.  
+  *Python · OpenAI · Frappe*
+
+- **Real-time AI interview agent**: A voice agent that joins a video room, runs a structured interview, and saves the recording for a person to review.  
   *LiveKit · Python · OpenAI · Deepgram · Cartesia · Silero VAD*
 
-- **Community Health Reporting & Analytics Platform** — Anonymous incident reporting, verification workflow, hotspot heatmaps, NLP pattern detection.  
+- **Paynow billing foundation**: Credit-based usage billing for Zimbabwean software products.  
+  *Frappe · Paynow · REST APIs*
+
+- **Community Health Reporting & Analytics Platform**: Anonymous incident reporting, a verification workflow, heatmaps of hotspots, and text analysis to spot patterns.  
   [Repo](https://github.com/JosephAaronMusara/CommunityHealthReportingandAnalyticsPlatform) · *Django · Python · Leaflet · NLP*
 
-- **AgriSphere** — On-device disease detection for smallholder potato farmers in Zimbabwe; offline-first mobile app.  
+- **AgriSphere**: Disease detection for smallholder potato farmers in Zimbabwe, running on the phone itself so it works without internet.  
   *React Native · TensorFlow Lite · Firebase · Expo*
-
-- **Paynow billing foundation** — Credit-based usage billing for Zimbabwean SaaS.  
-  *Frappe · Paynow · REST APIs*
 
 ---
 
 ## Stack
 
-**Frontend** — Next.js, React, TypeScript, Tailwind, React Native  
-**Backend** — Python, Frappe, Django, REST APIs, Redis, MariaDB  
-**AI / Real-time** — OpenAI, Anthropic, LiveKit, Deepgram, Cartesia, TensorFlow Lite, NLP  
-**Infrastructure** — Docker, Nginx, Supervisor, Linux VPS, Firebase
+**Frontend:** Next.js, React, TypeScript, Tailwind, React Native  
+**Backend:** Python, Frappe, Django, REST APIs, Redis, MariaDB  
+**AI and real-time:** OpenAI, Anthropic, LiveKit, Deepgram, Cartesia, TensorFlow Lite, NLP  
+**Infrastructure:** Docker, Nginx, Supervisor, Linux VPS, Firebase
 
-Also exploring: cybersecurity (binary exploitation, Active Directory), distributed systems, and applied ML for emerging-market problems.
+Also exploring: cybersecurity (binary exploitation, Active Directory), distributed systems, and applied machine learning for problems in emerging markets.
 
 ---
 
 ## Right now
 
 - Software Engineer at **Colossal Hub**
-- Finishing BTech Honours in Software Engineering at the **Harare Institute of Technology**
-- Building practical software for recruitment, health, and agriculture in Zimbabwean and African contexts
+- Founder of **Gibraltar Investments**, a consultancy offering business advisory, project management and technical assistance across Southern and Eastern Africa
+- BTech Honours in Software Engineering, **Harare Institute of Technology**
+- Building practical software for business, health and agriculture in Zimbabwean and African settings
 
 ---
 
@@ -56,6 +60,6 @@ Also exploring: cybersecurity (binary exploitation, Active Directory), distribut
 
 ## Reach me
 
-- Email — **josephaaronmusara@gmail.com**
-- LinkedIn — [aaron-jo](https://linkedin.com/in/aaron-joseph-aaron)
-- Portfolio — [josephmusara](https://joseph-aaron-musara.vercel.app)
+- Email: **josephaaronmusara@gmail.com**
+- LinkedIn: [joseph-aaron-musara](https://linkedin.com/in/joseph-aaron-musara)
+- Portfolio: [josephmusara](https://joseph-aaron-musara.vercel.app)
