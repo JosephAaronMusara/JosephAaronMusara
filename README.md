@@ -41,14 +41,6 @@ Portfolio: **[josephmusara](https://joseph-aaron-musara.vercel.app)**
 
 ---
 
-## Stats
-
-![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=JosephAaronMusara&show_icons=true&hide_border=true&bg_color=FAFAF7&title_color=1F4D3F&text_color=161613&icon_color=1F4D3F)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephAaronMusara&layout=compact&hide_border=true&bg_color=FAFAF7&title_color=1F4D3F&text_color=161613)
-
----
-
 ## Reach me
 
 - Email: **josephaaronmusara@gmail.com**
